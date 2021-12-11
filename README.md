@@ -6,6 +6,7 @@ My name is Quinn and I am currently doing Michigan State's web development progr
 
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 - Insomnia
 - Node
