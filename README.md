@@ -1,4 +1,4 @@
-My name is Quinn and I am currently doing Michigan State's web development program
+My name is Quinn and I am currently doing Michigan State's web development program. I am from the Detroit Area and have been all my life. I have been interested in writing code since I was in middle school. I started messing around with HTML with the inspect tool replacing the information on websites to mess with my friends, now it's my job.
 
 ---
 
