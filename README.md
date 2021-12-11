@@ -2,7 +2,7 @@ My name is Quinn and I am currently doing Michigan State's web development progr
 
 ---
 
-**Technologies I Have Worked With
+##Technologies I Have Worked With
 
 - HTML
 - CSS
@@ -15,7 +15,7 @@ My name is Quinn and I am currently doing Michigan State's web development progr
 
 ---
 
-**What I have Planned for the Future
+##What I have Planned for the Future
 
 I plan to work on web development until I feel more comfortable with some of the front and back end technologies I have done some work in. I want to make some websitess and work on web development in some aspect for a while.
 
