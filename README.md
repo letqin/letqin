@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @letqin
-- 👀 I’m interested in ... Learning code and finding a career in software engineering
-- 🌱 I’m currently learning ... HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on ... Any projects in my listed languages would be welcome
-- You can contact me at: letqin@gmail.com
+My name is Quinn and I am currently doing Michigan State's web development program
 
-<!---
-letqin/letqin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+** Technologies I Have Worked With
+
+- HTML
+- CSS
+- JavaScript
+- Insomnia
+- Node
+- SQL
+- React
+- Robo3t
+
+---
+
+** What I have Planned for the Future
+
+I plan to work on web development until I feel more comfortable with some of the front and back end technologies I have done some work in. I want to make some websitess and work on web development in some aspect for a while.
+
+I have had some plans for some Raspberry Pi ideas which will likely be published on my GitHub. I have some interest in the area of dev ops which I may expand on at some point.
